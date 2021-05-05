@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>adminextrainfo</name>
+	<displayName><![CDATA[Admin Extra Info]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[Extra Info in Admin Lists and Forms]]></description>
+	<author><![CDATA[vallka]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
